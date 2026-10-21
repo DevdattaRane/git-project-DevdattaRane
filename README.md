@@ -11,7 +11,3 @@ I am a student at ADYPU, currently learning Git and GitHub.
 ## Projects
 - VasHexad: Fly brain connectome
 - Air_Mouse: Controlling mouse using my webcam and finger gestures
-
-## Social Links
-- GitHub: https://github.com/DevdattaRane
-- LinkedIn: https://www.linkedin.com/in/devdattarane/?isSelfProfile=true
