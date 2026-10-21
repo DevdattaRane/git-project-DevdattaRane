@@ -14,3 +14,7 @@ I am a student at ADYPU, currently learning Git and GitHub.
 
 ## Contact
 - Email: devdattarane28@gmail.com
+
+## Hobbies
+- Swimming
+- Playing Guitar
